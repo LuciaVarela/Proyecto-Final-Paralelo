@@ -1,4 +1,5 @@
 # PROYECTO DE CLAUSURA: Bolsa de Palabras con MPI para Análisis de Texto
+Miguel Monreal y Lucía Varela 
 
 Este proyecto consiste en implementar una matriz de Bolsa de Palabras utilizando procesamiento paralelo con MPI y una versión serial para comparar tiempos de ejecución y calcular el speed-up.
 
